@@ -1,0 +1,14 @@
+﻿  go_with_the_flow_lab.cpp
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(51,41): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(51,41): warning C4305:         with
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(51,41): warning C4305:         [
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(51,41): warning C4305:             _Elem=char
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(51,41): warning C4305:         ]
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(51,41): warning C4309: 'argument': truncation of constant value
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(66,41): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(66,41): warning C4305:         with
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(66,41): warning C4305:         [
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(66,41): warning C4305:             _Elem=char
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(66,41): warning C4305:         ]
+C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\go_with_the_flow_lab.cpp(66,41): warning C4309: 'argument': truncation of constant value
+  go_with_the_flow_lab.vcxproj -> C:\Users\nessa\OneDrive\Documents\GitHub\go-with-the-flow-Vhuerta24\go_with_the_flow_lab\go_with_the_flow_lab\x64\Debug\go_with_the_flow_lab.exe
